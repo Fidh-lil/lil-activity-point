@@ -1,0 +1,8 @@
+[
+  { "id": "technical", "name": "Technical", "icon": "</>", "color": "blue", "description": "Hackathons, coding contests and technical workshops" },
+  { "id": "professional", "name": "Professional", "icon": "briefcase", "color": "orange", "description": "Internships, certifications and industry events" },
+  { "id": "sports", "name": "Sports", "icon": "bolt", "color": "green", "description": "Sports, fitness and athletic achievements" },
+  { "id": "cultural", "name": "Cultural", "icon": "star", "color": "pink", "description": "Arts, music, literature and cultural events" },
+  { "id": "social", "name": "Social service", "icon": "heart", "color": "violet", "description": "Volunteering and community engagement" },
+  { "id": "leadership", "name": "Leadership", "icon": "flag", "color": "yellow", "description": "Student bodies, clubs and entrepreneurship" }
+]
